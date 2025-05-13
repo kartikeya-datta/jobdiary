@@ -148,7 +148,7 @@ export default function AppHeader() {
               textDecoration: 'none',
             }}
           >
-            JOB WINNER
+            JobDiary
           </Typography>
           <SearchBar onSearch={handleSearch} />
           <Box sx={{ flexGrow: 1 }} />
